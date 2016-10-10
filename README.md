@@ -1,0 +1,1 @@
+# WL_TrendLineTrailingStop_forMT4
